@@ -88,7 +88,7 @@ const About = () => {
                  
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/rahul-raut-5613896a/"
+                      href="https://www.linkedin.com/in/rahul-raut23/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
