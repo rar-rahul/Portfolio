@@ -1,16 +1,17 @@
 html {
-    --section-background-color: linear-gradient(
-      to bottom left,
-      rgb(5, 8, 40), rgb(1, 4, 39)
-    );
+  --section-background-color: linear-gradient(
+    to bottom left,
+    rgb(5, 8, 40), rgb(1, 4, 39)
+  );
+
+  --image-gradient: linear-gradient(
+    to bottom left,
+    rgba(5, 8, 40, 0.87), rgba(1, 4, 39, 0.925)
+  );
+
   
-    --image-gradient: linear-gradient(
-      to bottom left,
-      rgba(5, 8, 40, 0.87), rgba(1, 4, 39, 0.925)
-    );
-  
-    --imp-text-color: #7500fa;
-    --imp-bold-text-color: #7500fa;
+    --imp-text-color: #0b8871;
+    --imp-bold-text-color: #0f846d;
   }
   
   .yellow {
@@ -79,7 +80,7 @@ html {
   /* Navbar Section  */
   /* --------- */
   .sticky {
-    background-color: #38007731 !important;
+    background-color: #87085831 !important;
     transition: all 0.3s ease-out 0s !important;
     box-shadow: 0px 10px 10px 0px rgba(9, 5, 29, 0.171) !important;
     backdrop-filter: blur(15px) !important;
